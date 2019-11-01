@@ -1,0 +1,23 @@
+package com.demo;
+
+public class C {
+	public static void main(String[] args) {
+B a= new B();
+a.m();
+	}
+	
+
+}
+
+class A{
+	int m() {
+		System.out.println("bhav");
+		return 1;
+	}
+}
+class B  {
+	 int m() {
+		System.out.println("tiwari");
+		return 0;
+	}
+}

@@ -1,0 +1,19 @@
+package com.demo;
+
+public class C {
+	B a= new B();
+	a.m();
+	
+
+}
+
+class A{
+	void m() {
+		System.out.println("bhav");
+	}
+}
+class B  extends A{
+	void m() {
+		System.out.println("tiwari");
+	}
+}

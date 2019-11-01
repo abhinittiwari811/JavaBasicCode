@@ -1,0 +1,16 @@
+package com.demo;
+
+public class C {
+
+}
+
+class A{
+	void m() {
+		System.out.println("bhav");
+	}
+}
+class B{
+	void m(int a) {
+		System.out.println("tiwari");
+	}
+}

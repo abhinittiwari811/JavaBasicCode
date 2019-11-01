@@ -1,0 +1,12 @@
+package com.example.demo;
+
+
+
+@org.sprin
+public class Controller { 
+	
+	public String print() {
+		return "hi";
+	}
+
+}

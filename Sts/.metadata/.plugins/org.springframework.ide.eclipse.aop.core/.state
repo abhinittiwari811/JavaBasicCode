@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="HelloWorldKK"/>
+<aop-project name="ticketBookingApplicationDemo"/>
+<aop-project name="Demo"/>
+<aop-project name="peopleManagementNamedQuery"/>
+<aop-project name="ticketBookingApplicationMysql"/>
+<aop-project name="FirstBoot"/>
+<aop-project name="peopleManagement"/>
+</aop-reference-model>

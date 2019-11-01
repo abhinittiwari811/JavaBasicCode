@@ -1,0 +1,13 @@
+package com.demo;
+
+import java.util.Random;
+
+public class Check {
+	
+	public static void main(String[] args) {
+		Random rm =new Random();
+		rm.setSeed(2013);
+		System.out.println(rm.nextInt());
+	}
+
+}
